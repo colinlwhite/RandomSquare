@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/exercises/random-square/bin/Debug/netcoreapp2.2/random-square.deps.json
+/Users/colinwhite/workspace/back-end/exercises/random-square/bin/Debug/netcoreapp2.2/random-square.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/exercises/random-square/bin/Debug/netcoreapp2.2/random-square.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/exercises/random-square/bin/Debug/netcoreapp2.2/random-square.dll
+/Users/colinwhite/workspace/back-end/exercises/random-square/bin/Debug/netcoreapp2.2/random-square.pdb
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.dll
+/Users/colinwhite/workspace/back-end/exercises/random-square/obj/Debug/netcoreapp2.2/random-square.pdb
